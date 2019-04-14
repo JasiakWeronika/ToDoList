@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.todo.MainActivity">
+    <item android:id="@+id/sort"
+          android:title="@string/sort">
+        <menu>
+            <item android:id="@+id/descriptionU"
+                  android:title="Nazwie rosnąco"/>
+            <item android:id="@+id/descriptionD"
+                  android:title="Nazwie malejąco"/>
+            <item android:id="@+id/priorityU"
+                  android:title="Priorytecie rosnąco"/>
+            <item android:id="@+id/priorityD"
+                  android:title="Priorytecie malejąco"/>
+            <item android:id="@+id/timeU"
+                  android:title="Czasie rosnąco"/>
+            <item android:id="@+id/timeD"
+                  android:title="Czasie malejąco"/>
+            <item android:id="@+id/dateU"
+                  android:title="Dacie rosnąco"/>
+            <item android:id="@+id/dateD"
+                  android:title="Dacie malejąco"/>
+            <item android:id="@+id/imageUD"
+                  android:title="Kategorii"/>
+        </menu>
+    </item>
+</menu>

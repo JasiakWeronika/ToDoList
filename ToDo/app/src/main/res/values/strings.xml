@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="mode">Tryb</string>
+    <string name="sort">Sortuj po</string>
+    <string name="confirm_title">Edytuj zadanie</string>
+    <string name="edit">Edytuj</string>
+    <string name="dialog_title">Dodaj zadanie</string>
+    <string name="positive">Zapisz</string>
+    <string name="neutral">Anuluj</string>
+    <string name="negative">Usuń</string>
+</resources>
